@@ -1,0 +1,14 @@
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\bin\Debug\netcoreapp3.1\Dio_Bandas.exe
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\bin\Debug\netcoreapp3.1\Dio_Bandas.deps.json
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\bin\Debug\netcoreapp3.1\Dio_Bandas.runtimeconfig.json
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\bin\Debug\netcoreapp3.1\Dio_Bandas.runtimeconfig.dev.json
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\bin\Debug\netcoreapp3.1\Dio_Bandas.dll
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\bin\Debug\netcoreapp3.1\Dio_Bandas.pdb
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\obj\Debug\netcoreapp3.1\Dio_Bandas.csproj.AssemblyReference.cache
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\obj\Debug\netcoreapp3.1\Dio_Bandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\obj\Debug\netcoreapp3.1\Dio_Bandas.AssemblyInfoInputs.cache
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\obj\Debug\netcoreapp3.1\Dio_Bandas.AssemblyInfo.cs
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\obj\Debug\netcoreapp3.1\Dio_Bandas.csproj.CoreCompileInputs.cache
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\obj\Debug\netcoreapp3.1\Dio_Bandas.dll
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\obj\Debug\netcoreapp3.1\Dio_Bandas.pdb
+C:\Users\wagne\source\repos\Dio_Bandas\Dio_Bandas\obj\Debug\netcoreapp3.1\Dio_Bandas.genruntimeconfig.cache
